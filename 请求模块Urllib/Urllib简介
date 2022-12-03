@@ -1,0 +1,5 @@
+### Python3中的Urllib模块中包含多个功能的子模块，具体内容如下：
+### urllib.request:用于实现基本HTTP请求模块。
+### urllib.error:异常处理模块，如果在发送网络请求时出现了错误，可以捕获异常进行异常的有效处理。
+### urllib.parse:用于解析URL的模块。
+### urllib.robotparse:用于解析robots.txt文件，判断网站是否可以爬取信息。
